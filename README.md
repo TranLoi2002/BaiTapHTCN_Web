@@ -1,5 +1,4 @@
 # BaiTapHTCN_Web
-# Stogare Study Case
 Nơi lưu trữ bài tập Hệ thống công nghệ Web
 
 # Information
